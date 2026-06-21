@@ -5,9 +5,12 @@
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@pillowguy123)
 
+# Languages I'm Currently Studying:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 
 # 💻 Technologies I Use:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Visual Studio](https://skillicons.dev/icons?i=visualstudio)
+![Unity](https://skillicons.dev/icons?i=unity) ![Unreal Engine](https://skillicons.dev/icons?i=unreal) ![Visual Studio](https://skillicons.dev/icons?i=visualstudio)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=pillowman123&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=pillowman123&theme=dark&hide_border=false)<br/>
@@ -16,4 +19,5 @@
 ---
 [![](https://komarev.com/ghpvc/?username=pillowman123&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> (this is amazing! - @pillowguy._.)
