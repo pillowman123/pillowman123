@@ -9,7 +9,7 @@
 ![C++](https://skillicons.dev/icons?i=cpp) 
 
 # 💻 Technologies I Use:
-![Unity](https://skillicons.dev/icons?i=unity) ![Unreal Engine](https://skillicons.dev/icons?i=unreal) ![Visual Studio](https://skillicons.dev/icons?i=visualstudio)
+![Unity](https://skillicons.dev/icons?i=unity) ![Unreal Engine](https://skillicons.dev/icons?i=unreal) ![Visual Studio](https://skillicons.dev/icons?i=visualstudio) ![Android Studio](https://static.wikia.nocookie.net/logopedia/images/c/cf/Android-studio-canary-2024-1.svg/revision/latest/scale-to-width-down/250?cb=20250425142216)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=pillowman123&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
